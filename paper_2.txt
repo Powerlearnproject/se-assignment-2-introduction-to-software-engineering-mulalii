@@ -1,0 +1,68 @@
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing).
+Why is testing crucial in software development?
+Version Control Systems:
+
+testing levels refer to different phases or stages of testing software during
+development Cycle
+
+Unit testing - This is where the developer tests individual components. It is usually done at
+code level. Each ccomponent is tested to ensure their impartiality and analyze their functionality.
+Usually a unit test has outlined guideline set for what is expected.
+
+Intergration testing -  Intergration testing enables software tester to be tested in units that are to be intergrated into
+a system or subsystem.
+
+system testing - This type of testing  is performed on an intergrated enviroment comprising the whole application. The components
+that are tested here comprise off large bodies compiled together to 
+get the specific product.
+
+Acceptance Testing involves testing the systems funtional and non-functional aspects,
+such as performance, security, usability and accesability and reliability. Depending on
+the systems complexity it can be done manually or via automation tools.
+
+Why Testing is crucial
+
+Testing helps us identify bugs and fix them before and after deployment. its a way
+of making sure the product we are releasing is of quality and that
+the client is satisfied with the product. testing also helps with Security to ensure 
+safty for all user data and company data.
+
+
+Version Control systems:
+
+A version control system is a software tool that tracks your code over time. it keeps
+track of changes and saves them in files so they can be used later on when needed.
+Version control allows multiple developers to work on one task.
+
+Git and apache Subversion are popular version control systems 
+
+A project manager is responsible for overseeing how far projects are coming together and
+making sure that everything is going smoothly and as planned.
+
+Software maintainance is the process of modifying and updating a software system after it
+has been in deployment.
+
+The responsibilities of software maintainance are:
+Bug fixing - errors and problems in the software software
+Enhancement - This is adding a new feature to improve the application
+performance optimization - making the app faster and more performant
+Re-engineering - This is process of improving the design and architecture
+Documentation - This is creating a manual to hoe and why 
+
+challenges faced by software maintainance:
+Older software are tough to maintain especially when it is using old tech.
+Changes are frequently left undocumented
+legacy code is also a common play
+changing requirements As users change the requirements also changes
+
+Ethical issues faced by Software engineers face:
+Personal data collection - some software profile users with high accurac
+Weak Security protection - security is undervalued
+emerging tech - we need to constantly keep up and evolve with the trends
+Colleagues - you might get bad and unsupportive work mates
+
+How to overcome these Ethical issues:
+You have to have a good work enviroment with Colleagues.
+Make sure to be up to date with your work if possible.
+Analyse the issuew and determine best route to fix it and procced.
+Make sure to avoid conficts with any work mate and keep things proffessional.
