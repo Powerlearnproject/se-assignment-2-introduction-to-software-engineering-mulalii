@@ -1,0 +1,51 @@
+Software engineering is the development process of software that involves Planning and Analysis,
+Design, development, testing and launching. In software engineering the developer is responsible for
+passing creating a work flow, delegating tasks and helping with the overall development of the product.
+Whereas in programming the programmer is just concentrated on writing a key component of the product.
+A programmer is just mainly working with a tech stack such as language, libraries and frameworks.
+
+Software Development Life Cycle (SDLC):
+
+SDLC defines a set of key steps responsible overseeing the creation of a product. Steps that are
+taken in SDLC are Planning, Analysis, Design, Development, Testing and implementation
+
+The steps to SDLC:
+
+Stage 1: includes planning - this is were planning for creating the product
+at this stage a team will set goals, see if the product the client people want is feasible.
+
+stage 2: Analyis - this is where data is organised so planning and design 
+can happen. This requires a lot of research.
+
+stage 3: Design - Here a foundation is built for the product that the client wants
+here people dicide which tools are used to build the product.
+
+Stage 4: Development - This is where the tasks are divided into groups and individuals
+each person is incharge of different tasks in the creation of the product.
+
+stage 5: implementation - People put tools together and produce a product 
+
+stage 6: Testing - Bug Check and fixes are finalised here before launch the semi-final
+product is tested to see if its launch ready
+
+stage 7: Launch and Maintaince - This is where deployment happens. After deployment of 
+the product, Maintaince will take place constantly after the product is in use
+
+Agile vs waterfall Models:
+
+Agile - These are flexiable models where functionality is added generally.
+Agile can also be considered a collection of many different projects. Development
+is usually seperated into sprints.
+
+Waterfall - The developement process is usually well planned out into distinct phases.
+This  methodology is sequential design process.
+
+WHEN TO USE AGILE OR WATERFALL MODELS:
+
+Agile model are better suited for projects where u dont know the full details. Usually
+when frequant changes are needed that is also a queue to us Agile, and
+if u have a flexiable schedule and budget.
+
+Waterfall models are suitable for when everything about the project is known from
+budget, to project viability and more. Usually when a project can be well planned out
+then thats also a queue to use Waterfall models.
